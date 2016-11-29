@@ -13,7 +13,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/impexeris/Arduino-Geiger-PCB/blob/10MHZATMEGA328SMD/AGP-1.0.0.zip",
+          "url": "https://github.com/impexeris/Arduino-Geiger-PCB/blob/10MHZATMEGA328SMD/AGP-1.0.0.zip?raw=true",
           "archiveFileName": "AGP-1.0.0.zip",
           "checksum": "SHA-256:5ADE20C21ADEA88FA907531DAE6EA7C1AF5B1C3B0D9D33F07F89320ED23A548F",
           "size": "226220",
